@@ -15,7 +15,7 @@ except:
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1760045688]
+        ALD_USR = [-1001680823782 -1001627921216 -1001397548715]
         OWNER_ID = 1760045688
 
         # Google Drive Index Link should include the base dir also See readme for more info
@@ -38,7 +38,8 @@ except:
 
         # DB URI for access
         DATABASE_URL = (
-            "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+            "dbname=evoaeqss user=evoaeqss password=pao4EuAaahxP4WVQAGNIqxyKj0fVLaDv host=127.0.0.1 port=5432"
+            
         )
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
