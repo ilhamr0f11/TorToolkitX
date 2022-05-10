@@ -13,7 +13,7 @@ logging.basicConfig(
 
 import time
 
-from tortoolkit.core.wserver import start_server
+#from tortoolkit.core.wserver import start_server
 
 from .core.database_handle import TorToolkitDB, TtkTorrents, TtkUpload, UserDB
 from .core.varholdern import VarHolder
